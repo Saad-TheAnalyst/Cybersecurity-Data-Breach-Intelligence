@@ -1,0 +1,350 @@
+Organisation,Year,Records Lost,Sector,Method,Severity,Decade,Log_Records,Is_Recent,Is_Major_Tech,Attack_Category
+Trw Information Systems,1984,90000000,Financial,Hacked,High,1980s,7.954242509439325,0,0,Hacked
+Us Customs And Border Protection,2019,100000,Government,Hacked,Low,2010s,5.0,1,0,Hacked
+Click2Gov,2018,300000,Financial,Hacked,Low,2010s,5.477121254719663,1,0,Hacked
+Singhealth,2018,1500000,Healthcare,Hacked,Medium,2010s,6.176091259055681,1,0,Hacked
+Quest Diagnostics,2019,11900000,Healthcare,Poor Security,High,2010s,7.075546961392531,1,0,Poor Security
+Australian National University,2019,200000,Academic,Hacked,Low,2010s,5.301029995663981,1,0,Hacked
+Canva,2019,139000000,Web,Hacked,Critical,2010s,8.143014800254095,1,0,Hacked
+First American Financial Corporation,2019,885000000,Financial,Poor Security,Critical,2010s,8.946943270697826,1,0,Poor Security
+Chtrbox,2019,49000000,Media,Poor Security,High,2010s,7.690196080028514,1,0,Poor Security
+Wifi Finder,2019,2000000,App,Poor Security,Medium,2010s,6.301029995663981,1,0,Poor Security
+Toyota,2019,3100000,Transport,Hacked,Medium,2010s,6.491361693834273,1,0,Hacked
+Breedready,1999,1800000,Web,Poor Security,Medium,1990s,6.2552725051033065,0,0,Poor Security
+V√•Rdguiden,2019,2700000,Healthcare,Poor Security,Medium,2010s,6.431363764158987,1,0,Poor Security
+Dubsmash,2019,162000000,App,Hacked,Critical,2010s,8.209515014542632,1,0,Hacked
+Sharethis,2019,41000000,Web,Hacked,High,2010s,7.6127838567197355,1,0,Hacked
+Hautelook,2019,28000000,Retail,Hacked,High,2010s,7.447158031342219,1,0,Hacked
+Animoto,2019,25000000,App,Hacked,High,2010s,7.3979400086720375,1,0,Hacked
+Eyeem,2019,22000000,Web,Hacked,High,2010s,7.342422680822207,1,0,Hacked
+8Fit,2019,20000000,App,Hacked,High,2010s,7.301029995663981,1,0,Hacked
+Whitepages,2019,18000000,Web,Hacked,High,2010s,7.2552725051033065,1,0,Hacked
+Fotolog,2019,3000000,Web,Hacked,Medium,2010s,6.477121254719663,1,0,Hacked
+Armor Games,2019,11000000,Gaming,Hacked,High,2010s,7.041392685158225,1,0,Hacked
+Bookmate,2019,8000000,Web,Hacked,Medium,2010s,6.903089986991944,1,0,Hacked
+Coffeemeetsbagel,2019,25000000,Web,Hacked,High,2010s,7.3979400086720375,1,0,Hacked
+Artsy,2019,1000000,Web,Hacked,Medium,2010s,6.0,1,0,Hacked
+Datacamp,2019,700000,Web,Hacked,Low,2010s,5.845098040014257,1,0,Hacked
+Ixigo,2019,18000000,Transport,Poor Security,High,2010s,7.2552725051033065,1,0,Poor Security
+Younow,2019,40000000,Web,Hacked,High,2010s,7.6020599913279625,1,0,Hacked
+Houzz,2019,57000000,Retail,Hacked,High,2010s,7.7558748556724915,1,0,Hacked
+Ge.Tt,2019,1800000,Web,Hacked,Medium,2010s,6.2552725051033065,1,0,Hacked
+Coinmama,2019,450000,Financial,Hacked,Low,2010s,5.653212513775344,1,0,Hacked
+Roll20,2019,4000000,Gaming,Hacked,Medium,2010s,6.6020599913279625,1,0,Hacked
+Stronghold Kingdoms,2019,5000000,Gaming,Hacked,Medium,2010s,6.698970004336019,1,0,Hacked
+Petflow,2019,25000000,Retail,Poor Security,High,2010s,7.3979400086720375,1,0,Poor Security
+500Px,2019,14800000,Web,Hacked,High,2010s,7.1702617153949575,1,0,Hacked
+Govpaynow.Com,2018,14000000,Financial,Poor Security,High,2010s,7.146128035678238,1,0,Poor Security
+Cathay Pacific Airways,2018,9400000,Transport,Hacked,Medium,2010s,6.973127853599698,1,0,Hacked
+Chinese Resume Leak,2018,202000000,Web,Poor Security,Critical,2010s,8.305351369446624,1,0,Poor Security
+Blur,2019,2400000,Tech,Accidentally Published,Medium,2010s,6.380211241711606,1,0,Accidentally Published
+Blank Media Games,2019,7600000,Gaming,Hacked,Medium,2010s,6.880813592280791,1,0,Hacked
+Wordpress,2018,76500000,Web,Poor Security,High,2010s,7.883661435153617,1,0,Poor Security
+Google+,2018,52500000,Web,Poor Security,High,2010s,7.720159303405957,1,1,Poor Security
+Quora,2018,100000000,Web,Hacked,High,2010s,8.0,1,0,Hacked
+Marriott Hotels,2018,383000000,Retail,Hacked,Critical,2010s,8.583198773968622,1,0,Hacked
+Nmbs,2018,1460000,Transport,Accidentally Published,Medium,2010s,6.164352855784437,1,0,Accidentally Published
+Facebook,2018,50000000,Web,Hacked,High,2010s,7.698970004336019,1,1,Hacked
+Panerabread,2018,37000000,Retail,Poor Security,High,2010s,7.568201724066995,1,0,Poor Security
+Aadhaar,2018,1000000000,Government,Accidentally Published,Critical,2010s,9.0,1,0,Accidentally Published
+Dixons Carphone,2018,10000000,Telecoms,Hacked,High,2010s,7.0,1,0,Hacked
+Myheritage,2018,92283889,Web,Hacked,High,2010s,7.9651258881426354,1,0,Hacked
+Saks And Lord & Taylor,2018,5000000,Retail,Hacked,Medium,2010s,6.698970004336019,1,0,Hacked
+Careem,2018,14000000,App,Hacked,High,2010s,7.146128035678238,1,0,Hacked
+Texas Voter Records,2018,14800000,Web,Poor Security,High,2010s,7.1702617153949575,1,0,Poor Security
+British Airways,2018,380000,Transport,Hacked,Low,2010s,5.57978359661681,1,0,Hacked
+T-Mobile,2018,2000000,Telecoms,Hacked,Medium,2010s,6.301029995663981,1,0,Hacked
+Myfitnesspal,2018,150000000,App,Hacked,Critical,2010s,8.176091259055681,1,0,Hacked
+Health South East,2018,3000000,Healthcare,Hacked,Medium,2010s,6.477121254719663,1,0,Hacked
+Nametests,2018,120000000,App,Poor Security,Critical,2010s,8.079181246047625,1,0,Poor Security
+Ticketmaster,2018,40000,Web,Hacked,Low,2010s,4.6020599913279625,1,0,Hacked
+Firebase,2018,100000000,App,Poor Security,High,2010s,8.0,1,0,Poor Security
+Aadhaar,2018,1100000000,Government,Poor Security,Critical,2010s,9.041392685158225,1,0,Poor Security
+Grindr,2018,3000000,App,Poor Security,Medium,2010s,6.477121254719663,1,0,Poor Security
+Orbitz,2018,10000000,Web,Hacked,High,2010s,7.0,1,0,Hacked
+Mbm Company,2018,1300000,Retail,Poor Security,Medium,2010s,6.113943352306837,1,0,Poor Security
+Localblox,2018,48000000,Web,Poor Security,High,2010s,7.681241237375588,1,0,Poor Security
+Twitter,2018,330000000,App,Poor Security,Critical,2010s,8.518513939877888,1,1,Poor Security
+Viewfines,2018,934000,Transport,Accidentally Published,Low,2010s,5.970346876230093,1,0,Accidentally Published
+Ticketfly,2018,27000000,Web,Hacked,High,2010s,7.431363764158987,1,0,Hacked
+Amazon,2018,5000000,Retail,Accidentally Published,Medium,2010s,6.698970004336019,1,1,Accidentally Published
+Amazon,2018,100000,Tech,Poor Security,Low,2010s,5.0,1,1,Poor Security
+Urban Massage,2018,309000,App,Poor Security,Low,2010s,5.489958479424835,1,0,Poor Security
+Dell,2018,100000,Tech,Hacked,Low,2010s,5.0,1,0,Hacked
+High Tail Hall,2018,411000,Web,Hacked,Low,2010s,5.613841821876069,1,0,Hacked
+Sky Brasil,2018,32000000,Telecoms,Poor Security,High,2010s,7.505149978319906,1,0,Poor Security
+Vision Direct,2018,100000,Retail,Hacked,Low,2010s,5.0,1,0,Hacked
+Healthcare.Gov,2018,75000,Healthcare,Hacked,Low,2010s,4.8750612633917,1,0,Hacked
+Cms,2018,93689,Healthcare,Hacked,Low,2010s,4.971688603483967,1,0,Hacked
+Facebook,2018,29000000,Web,Hacked,High,2010s,7.4623979978989565,1,1,Hacked
+Newegg,2018,45000000,Retail,Hacked,High,2010s,7.653212513775344,1,0,Hacked
+Disqus,2017,17500000,Web,Hacked,High,2010s,7.243038048686294,1,0,Hacked
+Rootsweb,2017,300000,Web,Poor Security,Low,2010s,5.477121254719663,1,0,Poor Security
+Yahoo,2017,32000000,Web,Hacked,High,2010s,7.505149978319906,1,1,Hacked
+Uber,2017,57000000,App,Hacked,High,2010s,7.7558748556724915,1,0,Hacked
+Wonga,2017,270000,Financial,Hacked,Low,2010s,5.431363764158987,1,0,Hacked
+Snapchat,2017,1700000,App,Hacked,Medium,2010s,6.230448921378274,1,0,Hacked
+Spambot,2017,711000000,Web,Poor Security,Critical,2010s,8.851869600729767,1,0,Poor Security
+Cex,2017,2000000,Retail,Accidentally Published,Medium,2010s,6.301029995663981,1,0,Accidentally Published
+Al.Type,2017,31000000,App,Poor Security,High,2010s,7.491361693834273,1,0,Poor Security
+Cellebrite,2017,3000000,Tech,Hacked,Medium,2010s,6.477121254719663,1,0,Hacked
+Waterly,2017,1000000,App,Poor Security,Medium,2010s,6.0,1,0,Poor Security
+Swedish Transport Agency,2017,3000000,Government,Poor Security,Medium,2010s,6.477121254719663,1,0,Poor Security
+Hong Kong Registration & Electoral Office,2017,3700000,Government,Lost Device,Medium,2010s,6.568201724066995,1,0,Lost Device
+River City Media,2017,1370000000,Web,Accidentally Published,Critical,2010s,9.136720567156408,1,0,Accidentally Published
+Dafont,2017,700000,Web,Hacked,Low,2010s,5.845098040014257,1,0,Hacked
+Bell,2017,1900000,Telecoms,Hacked,Medium,2010s,6.278753600952829,1,0,Hacked
+Zomato,2017,17000000,Web,Hacked,High,2010s,7.230448921378274,1,0,Hacked
+Imgur,2017,1700000,App,Hacked,Medium,2010s,6.230448921378274,1,0,Hacked
+Tio Networks,2017,1600000,Financial,Hacked,Medium,2010s,6.204119982655925,1,0,Hacked
+Malaysian Telcos & Mvnos,2017,46200000,Telecoms,Hacked,High,2010s,7.664641975556125,1,0,Hacked
+Malaysian Medical Practitioners,2017,81309,Healthcare,Hacked,Low,2010s,4.9101386198130985,1,0,Hacked
+Instagram,2017,6000000,Web,Hacked,Medium,2010s,6.778151250383644,1,0,Hacked
+Viacom,2017,3000000,Web,Hacked,Medium,2010s,6.477121254719663,1,0,Hacked
+Equifax,2017,143000000,Financial,Hacked,Critical,2010s,8.155336037465062,1,0,Hacked
+Svr Tracking,2017,540000,App,Poor Security,Low,2010s,5.732393759822968,1,0,Poor Security
+Linkedin,2016,117000000,Web,Hacked,Critical,2010s,8.068185861746162,1,1,Hacked
+Tumblr,2016,65000000,Web,Hacked,High,2010s,7.812913356642856,1,0,Hacked
+Yahoo,2016,500000000,Web,Hacked,Critical,2010s,8.698970004336019,1,1,Hacked
+Mossack Fonseca,2016,11500000,Legal,Hacked,High,2010s,7.060697840353612,1,0,Hacked
+Philippines‚Äô Commission On Elections,2016,55000000,Government,Hacked,High,2010s,7.740362689494244,1,0,Hacked
+Syrian Government,2016,274477,Government,Hacked,Low,2010s,5.43850595828855,1,0,Hacked
+Minecraft,2016,7000000,Gaming,Hacked,Medium,2010s,6.845098040014257,1,0,Hacked
+Turkish Citizenship Database,2016,49611709,Government,Hacked,High,2010s,7.695584187658757,1,0,Hacked
+Banner Health,2016,3700000,Healthcare,Hacked,Medium,2010s,6.568201724066995,1,0,Hacked
+Mail. Ru,2016,25000000,Web,Hacked,High,2010s,7.3979400086720375,1,0,Hacked
+Dropbox,2016,68700000,Web,Hacked,High,2010s,7.83695673705955,1,0,Hacked
+Payasugym,2016,300000,Web,Hacked,Low,2010s,5.477121254719663,1,0,Hacked
+Lynda.Com,2016,9500000,Web,Hacked,Medium,2010s,6.977723605288848,1,0,Hacked
+Linux Ubuntu Forums,2016,2000000,Web,Hacked,Medium,2010s,6.301029995663981,1,0,Hacked
+Wendy'S,2016,1025,Retail,Hacked,Low,2010s,3.010723865391773,1,0,Hacked
+Clinton Campaign,2016,5000000,Government,Hacked,Medium,2010s,6.698970004336019,1,0,Hacked
+Utorrent,2016,35000,Web,Hacked,Low,2010s,4.544068044350276,1,0,Hacked
+World Check,2016,2200000,Media,Poor Security,Medium,2010s,6.342422680822207,1,0,Poor Security
+Mutuelle Generale De La Police,2016,112000,Healthcare,Inside Job,Low,2010s,5.049218022670182,1,0,Inside Job
+Vk,2016,100544934,Web,Hacked,Critical,2010s,8.002360193368645,1,0,Hacked
+Km.Ru & Nival,2016,1500000,Web,Hacked,Medium,2010s,6.176091259055681,1,0,Hacked
+Fling,2016,40000000,Web,Hacked,High,2010s,7.6020599913279625,1,0,Hacked
+Myspace,2016,164000000,Web,Hacked,Critical,2010s,8.214843848047698,1,0,Hacked
+Three,2016,200000,Telecoms,Hacked,Low,2010s,5.301029995663981,1,0,Hacked
+Red Cross Blood Service,2016,550000,Healthcare,Accidentally Published,Low,2010s,5.740362689494244,1,0,Accidentally Published
+Telegram,2016,15000000,App,Hacked,High,2010s,7.176091259055681,1,0,Hacked
+Dailymotion,2016,85200000,Web,Hacked,High,2010s,7.9304395947667,1,0,Hacked
+Weebly,2016,43000000,Web,Hacked,High,2010s,7.633468455579586,1,0,Hacked
+Interpark,2016,10000000,Web,Hacked,High,2010s,7.0,1,0,Hacked
+Quest Diagnostics,2016,34000,Healthcare,Hacked,Low,2010s,4.531478917042255,1,0,Hacked
+Friend Finder Network,2016,412000000,Web,Hacked,Critical,2010s,8.614897216033135,1,0,Hacked
+Brazzers,2016,790724,Web,Hacked,Low,2010s,5.8980249206735404,1,0,Hacked
+Clixsense,2016,6600000,Web,Hacked,Medium,2010s,6.819543935541868,1,0,Hacked
+Carefirst,2015,1100000,Healthcare,Hacked,Medium,2010s,6.041392685158225,1,0,Hacked
+Twitch.Tv,2015,10000000,Healthcare,Hacked,High,2010s,7.0,1,0,Hacked
+Premera,2015,11000000,Healthcare,Hacked,High,2010s,7.041392685158225,1,0,Hacked
+Uber,2015,50000,"Tech, App",Poor Security,Low,2010s,4.698970004336019,1,0,Poor Security
+Deep Root Analytics,2015,198000000,Web,Poor Security,Critical,2010s,8.296665190261532,1,0,Poor Security
+Kromtech,2015,13000000,Web,Hacked,High,2010s,7.113943352306837,1,0,Hacked
+Invest Bank,2015,40000,Financial,Hacked,Low,2010s,4.6020599913279625,1,0,Hacked
+Sanrio,2015,3300000,Web,Poor Security,Medium,2010s,6.518513939877887,1,0,Poor Security
+Vtech,2015,6400000,Web,Hacked,Medium,2010s,6.8061799739838875,1,0,Hacked
+Hacking Team,2015,500000,Web,Hacked,Low,2010s,5.698970004336019,1,0,Hacked
+Ashleymadison.Com,2015,37000000,Web,Hacked,High,2010s,7.568201724066995,1,0,Hacked
+Us Office Of Personnel Management (2Nd Breach),2015,21500000,Government,Hacked,High,2010s,7.332438459915605,1,0,Hacked
+Us Office Of Personnel Management,2015,4000000,Government,Hacked,Medium,2010s,6.6020599913279625,1,0,Hacked
+Australian Immigration Department,2015,500000,Government,Accidentally Published,Low,2010s,5.698970004336019,1,0,Accidentally Published
+Irs,2015,100000,Government,Hacked,Low,2010s,5.0,1,0,Hacked
+Mspy,2015,400000,App,Hacked,Low,2010s,5.6020599913279625,1,0,Hacked
+Adult Friend Finder,2015,3900000,Web,Hacked,Medium,2010s,6.5910646070264995,1,0,Hacked
+Securus Technologies,2015,70000000,Web,Hacked,High,2010s,7.845098040014257,1,0,Hacked
+Talktalk,2015,157000,Telecoms,Hacked,Low,2010s,5.195899652409234,1,0,Hacked
+Experian / T-Mobile,2015,15000000,Telecoms,Hacked,High,2010s,7.176091259055681,1,0,Hacked
+Slack,2015,500000,App,Hacked,Low,2010s,5.698970004336019,1,0,Hacked
+Carphone Warehouse,2015,2400000,Telecoms,Hacked,Medium,2010s,6.380211241711606,1,0,Hacked
+British Airways,2015,500000,Transport,Hacked,Low,2010s,5.698970004336019,1,0,Hacked
+Anthem,2015,80000000,Healthcare,Hacked,High,2010s,7.903089986991944,1,0,Hacked
+Neiman Marcus,2014,1100000,Retail,Hacked,Medium,2010s,6.041392685158225,0,0,Hacked
+Aol,2014,2400000,Web,Hacked,Medium,2010s,6.380211241711606,0,0,Hacked
+Community Health Systems,2014,4500000,Healthcare,Hacked,Medium,2010s,6.653212513775344,0,0,Hacked
+Privatization Agency Of The Republic Of Serbia,2014,5190396,Government,Accidentally Published,Medium,2010s,6.715200493504345,0,0,Accidentally Published
+Sony Pictures,2014,10000000,Media,Hacked,High,2010s,7.0,0,0,Hacked
+Indiana University,2014,146000,Academic,Poor Security,Low,2010s,5.164352855784437,0,0,Poor Security
+Ebay,2014,145000000,Web,Hacked,Critical,2010s,8.161368002234974,0,1,Hacked
+Ups,2014,4000000,Retail,Hacked,Medium,2010s,6.6020599913279625,0,0,Hacked
+European Central Bank,2014,4000000,Financial,Hacked,Medium,2010s,6.6020599913279625,0,0,Hacked
+Jp Morgan Chase,2014,76000000,Financial,Hacked,High,2010s,7.880813592280791,0,0,Hacked
+New York Taxis,2014,52000,Transport,Poor Security,Low,2010s,4.7160033436347994,0,0,Poor Security
+Hsbc Turkey,2014,2700000,Financial,Hacked,Medium,2010s,6.431363764158987,0,0,Hacked
+Japan Airlines,2014,750000,Transport,Hacked,Low,2010s,5.8750612633917,0,0,Hacked
+Staples,2014,1160000,Retail,Hacked,Medium,2010s,6.064457989226918,0,0,Hacked
+"""Gmail""",2014,5000000,Web,Hacked,Medium,2010s,6.698970004336019,0,0,Hacked
+Home Depot,2014,56000000,Retail,Hacked,High,2010s,7.748188027006201,0,0,Hacked
+Korea Credit Bureau,2014,20000000,Financial,Inside Job,High,2010s,7.301029995663981,0,0,Inside Job
+Dominios Pizzas (France),2014,600000,Retail,Hacked,Low,2010s,5.778151250383644,0,0,Hacked
+Mozilla,2014,76000,Web,Poor Security,Low,2010s,4.880813592280791,0,0,Poor Security
+Massive American Business Hack,2013,160000000,Financial,Hacked,Critical,2010s,8.204119982655925,0,0,Hacked
+"Affinity Health Plan, Inc.",2013,344579,Healthcare,Lost Device,Low,2010s,5.537288806304046,0,0,Lost Device
+Citigroup,2013,150000,Financial,Accidentally Published,Low,2010s,5.176091259055681,0,0,Accidentally Published
+Tianya,2013,40000000,Web,Hacked,High,2010s,7.6020599913279625,0,0,Hacked
+Scribd,2013,500000,Web,Hacked,Low,2010s,5.698970004336019,0,0,Hacked
+Kissinger Cables,2013,1700000,Government,Inside Job,Medium,2010s,6.230448921378274,0,0,Inside Job
+Living Social,2013,50000000,Web,Hacked,High,2010s,7.698970004336019,0,0,Hacked
+Yahoo,2013,1000000000,Web,Hacked,Critical,2010s,9.0,0,1,Hacked
+Snapchat,2013,4700000,"Web, Tech",Hacked,Medium,2010s,6.672097857935717,0,0,Hacked
+Central Hudson Gas & Electric,2013,110000,Energy,Hacked,Low,2010s,5.041392685158225,0,0,Hacked
+Twitter,2013,250000,Web,Hacked,Low,2010s,5.3979400086720375,0,1,Hacked
+"Crescent Health Inc., Walgreens",2013,100000,Healthcare,Lost Device,Low,2010s,5.0,0,0,Lost Device
+Florida Department Of Juvenile Justice,2013,100000,Government,Lost Device,Low,2010s,5.0,0,0,Lost Device
+Advocate Medical Group,2013,4000000,Healthcare,Lost Device,Medium,2010s,6.6020599913279625,0,0,Lost Device
+Ovh,2013,3200000,Web,Hacked,Medium,2010s,6.505149978319906,0,0,Hacked
+Apple,2013,275000,"Tech, Web",Hacked,Low,2010s,5.439332693830263,0,1,Hacked
+Nasdaq,2013,500000,Financial,Hacked,Low,2010s,5.698970004336019,0,0,Hacked
+Ubisoft,2013,58000000,Gaming,Hacked,High,2010s,7.763427993562937,0,0,Hacked
+Ubuntu,2013,2000000,"Tech, Web",Hacked,Medium,2010s,6.301029995663981,0,0,Hacked
+Nintendo,2013,240000,Gaming,Hacked,Low,2010s,5.380211241711606,0,0,Hacked
+National Security Agency,2013,1500000,Government,Inside Job,Medium,2010s,6.176091259055681,0,0,Inside Job
+Facebook,2013,6000000,Web,Accidentally Published,Medium,2010s,6.778151250383644,0,1,Accidentally Published
+Evernote,2013,50000000,Web,Hacked,High,2010s,7.698970004336019,0,0,Hacked
+Kirkwood Community College,2013,125000,Academic,Hacked,Low,2010s,5.096910013008056,0,0,Hacked
+Yahoo Japan,2013,22000000,"Tech, Web",Hacked,High,2010s,7.342422680822207,0,1,Hacked
+Drupal,2013,1000000,Web,Hacked,Medium,2010s,6.0,0,0,Hacked
+Terracom & Yourtel,2013,170000,Telecoms,Accidentally Published,Low,2010s,5.230448921378274,0,0,Accidentally Published
+Washington State Court System,2013,160000,Government,Hacked,Low,2010s,5.204119982655925,0,0,Hacked
+Macrumours.Com,2013,860000,Web,Hacked,Low,2010s,5.9344984512435675,0,0,Hacked
+Court Ventures,2013,200000000,Financial,Inside Job,Critical,2010s,8.301029995663981,0,0,Inside Job
+Vodafone,2013,2000000,Telecoms,Inside Job,Medium,2010s,6.301029995663981,0,0,Inside Job
+Adobe,2013,36000000,Tech,Hacked,High,2010s,7.556302500767287,0,1,Hacked
+"D&B, Altegrity",2013,1000000,Tech,Hacked,Medium,2010s,6.0,0,0,Hacked
+Ssndob.Ms,2013,4000000,Web,Hacked,Medium,2010s,6.6020599913279625,0,0,Hacked
+Target,2013,70000000,Retail,Hacked,High,2010s,7.845098040014257,0,0,Hacked
+China Software Developer Network,2012,6000000,Web,Hacked,Medium,2010s,6.778151250383644,0,0,Hacked
+Global Payments,2012,7000000,Financial,Hacked,Medium,2010s,6.845098040014257,0,0,Hacked
+South Carolina Government,2012,6400000,Healthcare,Inside Job,Medium,2010s,6.8061799739838875,0,0,Inside Job
+Three Iranian Banks,2012,3000000,Financial,Hacked,Medium,2010s,6.477121254719663,0,0,Hacked
+California Department Of Child Support Services,2012,800000,Government,Lost Device,Low,2010s,5.903089986991944,0,0,Lost Device
+Emory Healthcare,2012,315000,Healthcare,Lost Device,Low,2010s,5.498310553789601,0,0,Lost Device
+Office Of The Texas Attorney General,2012,6500000,Government,Accidentally Published,Medium,2010s,6.812913356642856,0,0,Accidentally Published
+Medicaid,2012,780000,"Government, Healthcare",Hacked,Low,2010s,5.892094602690481,0,0,Hacked
+Dropbox,2012,68000000,Web,Hacked,High,2010s,7.832508912706237,0,0,Hacked
+Blizzard,2012,14000000,Gaming,Hacked,High,2010s,7.146128035678238,0,0,Hacked
+New York State Electric & Gas,2012,1800000,Energy,Inside Job,Medium,2010s,6.2552725051033065,0,0,Inside Job
+Memorial Healthcare System,2012,102153,Healthcare,Lost Device,Low,2010s,5.009251125391512,0,0,Lost Device
+Zappos,2012,24000000,Web,Hacked,High,2010s,7.380211241711606,0,0,Hacked
+Formspring,2012,420000,Web,Hacked,Low,2010s,5.623249290397901,0,0,Hacked
+Kt Corp.,2012,8700000,Telecoms,Hacked,Medium,2010s,6.939519252618618,0,0,Hacked
+Yahoo Voices,2012,450000,"Tech, Web",Hacked,Low,2010s,5.653212513775344,0,1,Hacked
+Last.Fm,2012,43500000,Web,Hacked,High,2010s,7.638489256954637,0,0,Hacked
+"Linkedin, Eharmony, Last.Fm",2012,8000000,Web,Hacked,Medium,2010s,6.903089986991944,0,1,Hacked
+Gamigo,2012,8000000,Web,Hacked,Medium,2010s,6.903089986991944,0,0,Hacked
+Militarysingles.Com,2012,163792,"Web, Military",Hacked,Low,2010s,5.214292685942703,0,0,Hacked
+"""Apple""",2012,12367232,"Tech, Retail",Accidentally Published,High,2010s,7.092272507903633,0,1,Accidentally Published
+Greek Government,2012,9000000,Government,Hacked,Medium,2010s,6.954242509439325,0,0,Hacked
+South Carolina State Dept. Of Revenue,2012,3600000,Government,Hacked,Medium,2010s,6.556302500767287,0,0,Hacked
+New York City Health & Hospitals Corp.,2011,1700000,Healthcare,Lost Device,Medium,2010s,6.230448921378274,0,0,Lost Device
+"Seacoast Radiology, Pa",2011,231400,Healthcare,Hacked,Low,2010s,5.3643633546157306,0,0,Hacked
+"South Shore Hospital, Massachusetts",2011,800000,Healthcare,Lost Device,Low,2010s,5.903089986991944,0,0,Lost Device
+Betfair,2011,2300000,Web,Hacked,Medium,2010s,6.361727836017593,0,0,Hacked
+"Ankle & Foot Center Of Tampa Bay, Inc.",2011,156000,Healthcare,Hacked,Low,2010s,5.193124598354461,0,0,Hacked
+Yale University,2011,43000,Academic,Accidentally Published,Low,2010s,4.633468455579586,0,0,Accidentally Published
+Morgan Stanley Smith Barney,2011,34000,Financial,Lost Device,Low,2010s,4.531478917042255,0,0,Lost Device
+State Of Texas,2011,3500000,Government,Accidentally Published,Medium,2010s,6.544068044350276,0,0,Accidentally Published
+Epsilon,2011,3000000,Web,Hacked,Medium,2010s,6.477121254719663,0,0,Hacked
+Sony Psn,2011,77000000,Gaming,Hacked,High,2010s,7.886490725172482,0,0,Hacked
+Us Law Enforcement,2011,123461,Government,Hacked,Low,2010s,5.0915297903106875,0,0,Hacked
+University Of Wisconsin - Milwaukee,2011,73000,Academic,Hacked,Low,2010s,4.863322860120456,0,0,Hacked
+Stratfor,2011,935000,Military,Hacked,Low,2010s,5.970811610872518,0,0,Hacked
+Chinese Gaming Sites,2011,10000000,Web,Hacked,High,2010s,7.0,0,0,Hacked
+Southern California Medical-Legal Consultants,2011,300000,Healthcare,Hacked,Low,2010s,5.477121254719663,0,0,Hacked
+Writerspace.Com,2011,62000,Web,Hacked,Low,2010s,4.7923916894982534,0,0,Hacked
+Bethesda Game Studios,2011,200000,Gaming,Hacked,Low,2010s,5.301029995663981,0,0,Hacked
+Sega,2011,1290755,Gaming,Hacked,Medium,2010s,6.110843816049846,0,0,Hacked
+Citigroup,2011,360083,Financial,Hacked,Low,2010s,5.556402618231962,0,0,Hacked
+Sony Pictures,2011,1000000,Web,Hacked,Medium,2010s,6.0,0,0,Hacked
+Accendo Insurance Co.,2011,175350,Healthcare,Poor Security,Low,2010s,5.243905770217522,0,0,Poor Security
+Washington Post,2011,1270000,Media,Hacked,Medium,2010s,6.103803720955957,0,0,Hacked
+Health Net - Ibm,2011,1900000,Healthcare,Lost Device,Medium,2010s,6.278753600952829,0,0,Lost Device
+Eisenhower Medical Center,2011,514330,Healthcare,Lost Device,Low,2010s,5.711241856723335,0,0,Lost Device
+Spartanburg Regional Healthcare System,2011,400000,Healthcare,Lost Device,Low,2010s,5.6020599913279625,0,0,Lost Device
+Nhs,2011,8600000,Healthcare,Lost Device,Medium,2010s,6.9344984512435675,0,0,Lost Device
+San Francisco Public Utilities Commission,2011,180000,Government,Hacked,Low,2010s,5.2552725051033065,0,0,Hacked
+Sony Online Entertainment,2011,24600000,Gaming,Hacked,High,2010s,7.390935107103379,0,0,Hacked
+Honda Canada,2011,283000,Retail,Hacked,Low,2010s,5.451786435524291,0,0,Hacked
+Massachusetts Government,2011,210000,Government,Hacked,Low,2010s,5.3222192947339195,0,0,Hacked
+Oregon Department Of Motor Vehicles,2011,1000000,Government,Hacked,Medium,2010s,6.0,0,0,Hacked
+Steam,2011,35000000,Web,Hacked,High,2010s,7.544068044350276,0,0,Hacked
+Restaurant Depot,2011,200000,Retail,Hacked,Low,2010s,5.301029995663981,0,0,Hacked
+Nexon Korea Corp,2011,13200000,Web,Hacked,High,2010s,7.12057393120585,0,0,Hacked
+Nemours Foundation,2011,1055489,Healthcare,Lost Device,Medium,2010s,6.023453711576225,0,0,Lost Device
+Sutter Medical Foundation,2011,4243434,Healthcare,Lost Device,Medium,2010s,6.627717451791637,0,0,Lost Device
+Tricare,2011,4901432,"Military, Healthcare",Lost Device,Medium,2010s,6.690322981832763,0,0,Lost Device
+"Avmed, Inc.",2010,1220000,Healthcare,Lost Device,Medium,2010s,6.086359830674748,0,0,Lost Device
+Blue Cross Blue Shield Of Tennessee,2010,1023209,Healthcare,Lost Device,Medium,2010s,6.009964351479537,0,0,Lost Device
+Us Military,2010,260000,Military,Inside Job,Low,2010s,5.414973347970818,0,0,Inside Job
+Gawker.Com,2010,1500000,Web,Hacked,Medium,2010s,6.176091259055681,0,0,Hacked
+"Triple-S Salud, Inc.",2010,398000,Healthcare,Lost Device,Low,2010s,5.599883072073688,0,0,Lost Device
+Ohio State University,2010,760000,Academic,Hacked,Low,2010s,5.880813592280791,0,0,Hacked
+"Emergency Healthcare Physicians, Ltd.",2010,180111,Healthcare,Lost Device,Low,2010s,5.255540237491475,0,0,Lost Device
+Colorado Government,2010,105470,Healthcare,Lost Device,Low,2010s,5.0231289460104955,0,0,Lost Device
+At&T,2010,114000,Telecoms,Hacked,Low,2010s,5.056904851336473,0,0,Hacked
+Lincoln Medical & Mental Health Center,2010,130495,Healthcare,Lost Device,Low,2010s,5.115593871720202,0,0,Lost Device
+Educational Credit Management Corp,2010,3300000,Financial,Lost Device,Medium,2010s,6.518513939877887,0,0,Lost Device
+Embassy Cables,2010,251000,Government,Inside Job,Low,2010s,5.399673721481038,0,0,Inside Job
+Us Federal Reserve Bank Of Cleveland,2010,400000,Financial,Hacked,Low,2010s,5.6020599913279625,0,0,Hacked
+Classified Iraq War Documents,2010,392000,Government,Inside Job,Low,2010s,5.593286067020458,0,0,Inside Job
+Puerto Rico Department Of Health,2010,515000,Healthcare,Hacked,Low,2010s,5.711807229041191,0,0,Hacked
+Heartland,2009,130000000,Financial,Hacked,Critical,2000s,8.113943352306837,0,0,Hacked
+Us National Guard,2009,131000,Military,Lost Device,Low,2000s,5.117271295655764,0,0,Lost Device
+Rockyou!,2009,32000000,"Web, Gaming",Hacked,High,2000s,7.505149978319906,0,0,Hacked
+Checkfree Corporation,2009,5000000,Financial,Hacked,Medium,2000s,6.698970004336019,0,0,Hacked
+Network Solutions,2009,573000,Web,Hacked,Low,2000s,5.75815462196739,0,0,Hacked
+Virginia Prescription Monitoring Program,2009,531400,Healthcare,Hacked,Low,2000s,5.725421550074259,0,0,Hacked
+Virginia Dept. Of Health,2009,8257378,"Government, Healthcare",Hacked,Medium,2000s,6.916842165855042,0,0,Hacked
+University Of California Berkeley,2009,160000,Academic,Hacked,Low,2000s,5.204119982655925,0,0,Hacked
+Health Net,2009,1500000,Healthcare,Lost Device,Medium,2000s,6.176091259055681,0,0,Lost Device
+Us Military,2009,76000000,Military,Lost Device,High,2000s,7.880813592280791,0,0,Lost Device
+Compass Bank,2008,1000000,Financial,Inside Job,Medium,2000s,6.0,0,0,Inside Job
+Hannaford Brothers Supermarket Chain,2008,4200000,Retail,Hacked,Medium,2000s,6.623249290397901,0,0,Hacked
+University Of Miami,2008,2100000,Academic,Lost Device,Medium,2000s,6.3222192947339195,0,0,Lost Device
+Bny Mellon Shareowner Services,2008,12500000,Financial,Lost Device,High,2000s,7.096910013008056,0,0,Lost Device
+Countrywide Financial Corp,2008,2500000,Financial,Inside Job,Medium,2000s,6.3979400086720375,0,0,Inside Job
+Uk Home Office,2008,84000,Government,Lost Device,Low,2000s,4.924279286061882,0,0,Lost Device
+Countrywide Financial Corp,2008,2600000,Financial,Inside Job,Medium,2000s,6.414973347970818,0,0,Inside Job
+Rbs Worldpay,2008,1500000,Financial,Hacked,Medium,2000s,6.176091259055681,0,0,Hacked
+Auction.Co.Kr,2008,18000000,Web,Hacked,High,2000s,7.2552725051033065,0,0,Hacked
+Gs Caltex,2008,11100000,Energy,Inside Job,High,2000s,7.045322978786658,0,0,Inside Job
+At&T,2008,113000,Telecoms,Lost Device,Low,2000s,5.05307844348342,0,0,Lost Device
+Stanford University,2008,72000,Academic,Lost Device,Low,2000s,4.857332496431268,0,0,Lost Device
+University Of Utah Hospitals & Clinics,2008,2200000,Academic,Lost Device,Medium,2000s,6.342422680822207,0,0,Lost Device
+Chile Ministry Of Education,2008,6000000,Government,Hacked,Medium,2000s,6.778151250383644,0,0,Hacked
+Jefferson County,2008,1600000,Government,Accidentally Published,Medium,2000s,6.204119982655925,0,0,Accidentally Published
+Texas Lottery,2008,89000,Government,Inside Job,Low,2000s,4.949390006644912,0,0,Inside Job
+Starbucks,2008,97000,Retail,Lost Device,Low,2000s,4.986771734266245,0,0,Lost Device
+Uk Ministry Of Defence,2008,1700000,Government,Lost Device,Medium,2000s,6.230448921378274,0,0,Lost Device
+"T-Mobile, Deutsche Telecom",2008,17000000,Telecoms,Lost Device,High,2000s,7.230448921378274,0,0,Lost Device
+Norwegian Tax Authorities,2008,3950000,Government,Accidentally Published,Medium,2000s,6.596597095626461,0,0,Accidentally Published
+Service Personnel And Veterans Agency (Uk),2008,50500,Government,Lost Device,Low,2000s,4.703291378118661,0,0,Lost Device
+Monster.Com,2007,1600000,Web,Hacked,Medium,2000s,6.204119982655925,0,0,Hacked
+Driving Standards Agency,2007,3000000,Government,Lost Device,Medium,2000s,6.477121254719663,0,0,Lost Device
+Fidelity National Information Services,2007,8500000,Financial,Inside Job,Medium,2000s,6.929418925714293,0,0,Inside Job
+City And Hackney Teaching Primary Care Trust,2007,160000,Government,Lost Device,Low,2000s,5.204119982655925,0,0,Lost Device
+Gap Inc,2007,800000,Retail,Lost Device,Low,2000s,5.903089986991944,0,0,Lost Device
+Dai Nippon Printing,2007,8637405,Retail,Inside Job,Medium,2000s,6.9363832837451875,0,0,Inside Job
+Tk / Tj Maxx,2007,94000000,Retail,Hacked,High,2000s,7.973127853599698,0,0,Hacked
+Jp Morgan Chase,2007,2600000,Financial,Lost Device,Medium,2000s,6.414973347970818,0,0,Lost Device
+Uk Revenue & Customs,2007,25000000,Government,Lost Device,High,2000s,7.3979400086720375,0,0,Lost Device
+Td Ameritrade,2007,6300000,Financial,Hacked,Medium,2000s,6.799340549453582,0,0,Hacked
+Aol,2006,20000000,Web,Accidentally Published,High,2000s,7.301029995663981,0,0,Accidentally Published
+Us Dept Of Vet Affairs,2006,26500000,"Government, Military",Lost Device,High,2000s,7.423245873936808,0,0,Lost Device
+Automatic Data Processing,2006,125000,Financial,Poor Security,Low,2000s,5.096910013008056,0,0,Poor Security
+Kddi,2006,4000000,Telecoms,Hacked,Medium,2000s,6.6020599913279625,0,0,Hacked
+Hewlett Packard,2006,200000,"Tech, Retail",Lost Device,Low,2000s,5.301029995663981,0,0,Lost Device
+Ameritrade Inc.,2005,200000,Financial,Lost Device,Low,2000s,5.301029995663981,0,0,Lost Device
+Citigroup,2005,3900000,Financial,Lost Device,Medium,2000s,6.5910646070264995,0,0,Lost Device
+Cardsystems Solutions Inc.,2005,40000000,Financial,Hacked,High,2000s,7.6020599913279625,0,0,Hacked
+Aol,2004,92000000,Web,Inside Job,High,2000s,7.963787827345556,0,0,Inside Job
+Cam4,2020,10880000000,Web,Poor Security,Critical,2020s,10.036628895362162,1,0,Poor Security
+Microsoft,2020,250000000,Tech,Poor Security,Critical,2020s,8.397940008672037,1,1,Poor Security
+Facebook,2021,533000000,Web,Hacked,Critical,2020s,8.726727209026572,1,1,Hacked
+Twitter,2022,200000000,Web,Hacked,Critical,2020s,8.301029995663981,1,1,Hacked
+T-Mobile,2021,76600000,Telecoms,Hacked,High,2020s,7.884228769632604,1,0,Hacked
+23Andme,2023,6900000,Healthcare,Hacked,Medium,2020s,6.838849090737256,1,0,Hacked
+Capita,2023,1500000,Tech,Hacked,Medium,2020s,6.176091259055681,1,0,Hacked
+At&T,2024,73000000,Telecoms,Hacked,High,2020s,7.863322860120456,1,0,Hacked
+National Public Data,2024,2900000000,Financial,Hacked,Critical,2020s,9.462397997898956,1,0,Hacked
