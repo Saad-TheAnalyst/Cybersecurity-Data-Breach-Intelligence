@@ -340,7 +340,6 @@ Cybersecurity-Data-Breach-Intelligence/
 ### Clone Repository
 ```bash
 git clone https://github.com/Saad-TheAnalyst/Cybersecurity-Data-Breach-Intelligence.git
-cd Cybersecurity-Data-Breach-Intelligence
 ```
 
 ### Prerequisites
